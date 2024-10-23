@@ -43,12 +43,12 @@ This project is an interactive **Carbon Emission Calculator** built using **Stre
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/carbon-emission-calculator.git
+   git clone https://github.com/UTKARSHAPPAWAR/carbon-calculator.git
    cd carbon-emission-calculator
    ```
 2. **Install Dependencies**:
    ```
-   pip install streamlit numpy pandas matplotlib
+   pip install streamlit numpy pandas 
    ```
 3. **Run the Application**:
    ```
