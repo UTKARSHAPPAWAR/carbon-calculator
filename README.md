@@ -48,7 +48,7 @@ This project is an interactive **Carbon Emission Calculator** built using **Stre
    ```
 2. **Install Dependencies**:
    ```
-   pip install streamlit numpy pandas 
+   pip install streamlit numpy plotly pandas 
    ```
 3. **Run the Application**:
    ```
