@@ -44,7 +44,7 @@ This project is an interactive **Carbon Emission Calculator** built using **Stre
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/UTKARSHAPPAWAR/carbon-calculator.git
-   cd carbon-emission-calculator
+   cd carbon-calculator
    ```
 2. **Install Dependencies**:
    ```
